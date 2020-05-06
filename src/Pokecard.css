@@ -24,4 +24,5 @@
 
 img {
     height: 170px;
+    transition: all ease-out 0.2s;
 }
